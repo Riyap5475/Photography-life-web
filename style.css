@@ -1,0 +1,36 @@
+.images {
+  border-color:black;
+  border:1px;
+  border-radius:80px;
+  padding:5px;
+  width:500;
+  height: 300;
+  margin-left: 120px;
+}
+#h1 {
+    text-align: center;
+    color: #1B5E20;
+    
+}
+Body {
+    background-color: #FFF176;k
+}
+#h2 {
+   text-align: center;
+   color: #388E3C;
+}
+#h3 {
+    margin-left: 160px;
+    font-size: 20px;
+}
+#h4 {
+    margin-left: 770px;
+    font-size: 20px;
+}
+#h5 {
+    margin-left: 120px;
+    font-size: 20px;
+}
+#h6 {
+    margin-left: 810px;
+    font-size: 20px;
